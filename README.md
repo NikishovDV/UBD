@@ -1,1 +1,1 @@
-# UBD_lab1 "C# WinForms"
+# UBD_labs "C# WinForms"
