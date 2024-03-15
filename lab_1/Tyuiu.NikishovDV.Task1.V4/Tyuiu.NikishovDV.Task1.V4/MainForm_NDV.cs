@@ -40,6 +40,7 @@ namespace Tyuiu.NikishovDV.Task1.V4
             textBoxBookAutor_NDV.Clear();
             textBoxYearRelease_NDV.Clear();
             checkBoxInStock_NDV.Checked = false; // —брасываем значение чекбокса
+
         }
 
 
