@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7UHOAbDB1LfRiSHRarF/8rkOC4WGdYctOGLImt69juyQh8XgitVveyM1HhBZZ3gY/YBFaZ84F8dySbOg8c4XpQ==",
+  "dgSpecHash": "W454EUYgopGg1gs/+XGFOebJO3A164kjLTOe1RKGyTCr0XX+RXNoBYyItdoj09Pp0WcR0AE/4LhCNkaqHGPXag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nikis\\source\\repos\\Tyuiu.NikishovDV.Task1.V4\\Tyuiu.NikishovDV.Task1.V4\\Tyuiu.NikishovDV.Task1.V4.csproj",
+  "projectFilePath": "C:\\Users\\nikis\\Source\\Repos\\NikishovDV\\UBD\\lab_1\\Tyuiu.NikishovDV.Task1.V4\\Tyuiu.NikishovDV.Task1.V4\\Tyuiu.NikishovDV.Task1.V4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nikis\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\nikis\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

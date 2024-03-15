@@ -1620,11 +1620,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikis\\source\\repos\\Tyuiu.NikishovDV.Task1.V4\\Tyuiu.NikishovDV.Task1.V4\\Tyuiu.NikishovDV.Task1.V4.csproj",
+      "projectUniqueName": "C:\\Users\\nikis\\Source\\Repos\\NikishovDV\\UBD\\lab_1\\Tyuiu.NikishovDV.Task1.V4\\Tyuiu.NikishovDV.Task1.V4\\Tyuiu.NikishovDV.Task1.V4.csproj",
       "projectName": "Tyuiu.NikishovDV.Task1.V4",
-      "projectPath": "C:\\Users\\nikis\\source\\repos\\Tyuiu.NikishovDV.Task1.V4\\Tyuiu.NikishovDV.Task1.V4\\Tyuiu.NikishovDV.Task1.V4.csproj",
+      "projectPath": "C:\\Users\\nikis\\Source\\Repos\\NikishovDV\\UBD\\lab_1\\Tyuiu.NikishovDV.Task1.V4\\Tyuiu.NikishovDV.Task1.V4\\Tyuiu.NikishovDV.Task1.V4.csproj",
       "packagesPath": "C:\\Users\\nikis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikis\\source\\repos\\Tyuiu.NikishovDV.Task1.V4\\Tyuiu.NikishovDV.Task1.V4\\obj\\",
+      "outputPath": "C:\\Users\\nikis\\Source\\Repos\\NikishovDV\\UBD\\lab_1\\Tyuiu.NikishovDV.Task1.V4\\Tyuiu.NikishovDV.Task1.V4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
