@@ -1,0 +1,52 @@
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\HBRS.frmCheckin.resources
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\HBRS.frmCheckinList.resources
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\HBRS.frmCheckinListMonitor.resources
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\HBRS.frmCheckout.resources
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\HBRS.frmCheckOutList.resources
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\HBRS.frmDiscount.resources
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\HBRS.frmGuest.resources
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\HBRS.frmLogin.resources
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\HBRS.frmMain.resources
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\HBRS.frmReserve.resources
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\HBRS.frmReserveListMonitor.resources
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\HBRS.frmRoom.resources
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\HBRS.frmRoomListMonitor.resources
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\HBRS.Properties.Resources.resources
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\bin\Debug\HBRS.exe
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\bin\Debug\HBRS.pdb
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\bin\Debug\HBRS.xml
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\HBRS.exe
+C:\Users\don\Desktop\New tutorials for csharp\hbrs\HBRS\CS\obj\x86\Debug\HBRS.pdb
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\bin\Debug\HBRS.exe.config
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\bin\Debug\HBRS.exe
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\bin\Debug\HBRS.pdb
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\bin\Debug\HBRS.xml
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.csproj.AssemblyReference.cache
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.frmCheckin.resources
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.frmCheckinList.resources
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.frmCheckinListMonitor.resources
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.frmCheckout.resources
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.frmCheckOutList.resources
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.frmDiscount.resources
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.frmGuest.resources
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.frmLogin.resources
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.frmMain.resources
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.frmReserve.resources
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.frmReserveListMonitor.resources
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.frmRoom.resources
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.frmRoomListMonitor.resources
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.frmSelectGuest.resources
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.frmSelectRoom.resources
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.Properties.Resources.resources
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.csproj.GenerateResource.cache
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.csproj.CoreCompileInputs.cache
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.csproj.CopyComplete
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.exe
+C:\Users\nikis\Downloads\hotel-reservation_0\hotel Reservation\obj\x86\Debug\HBRS.pdb
